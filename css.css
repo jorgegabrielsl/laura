@@ -1,0 +1,54 @@
+*{
+  margin: 100px;
+}
+
+
+body.h1{
+  color: rgb(158, 22, 22);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h2{
+  color: rgb(178, 0, 181);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a{
+  color: rgba(218, 19, 72, 0.468);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body{
+  background-color: rgba(245, 166, 244, 0.696);
+}
+
+
+
+h1{
+  color: rgba(55, 162, 233, 0.852);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  margin-right: auto;
+  margin-left: auto;
+ }
