@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color: azure;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 150px;
+
+   
+}
+
+p{
+    font-size: 55px;
+    
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right:150px;
+    margin-bottom: 100px;
+    
+}
+
+
+body{
+    background: linear-gradient(rgba(222, 154, 231, 0.651), rgba(62, 0, 81, 0.822));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+}  
+
+a{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right:150px;
+    margin-bottom: 100px;
+    
+}
